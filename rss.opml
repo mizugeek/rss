@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Takashi subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="bike" title="bike">
+            <outline type="rss" text="Ysp大阪鶴見オフィシャルブログ" title="Ysp大阪鶴見オフィシャルブログ" xmlUrl="http://rssblog.ameba.jp/ysposakatsurumi/rss20.xml" htmlUrl="https://ameblo.jp/ysposakatsurumi/"/>
+            <outline type="rss" text="レスポンス - モーターサイクル" title="レスポンス - モーターサイクル" xmlUrl="http://response.jp/rss/motorcycle.rdf" htmlUrl="https://response.jp/category/motorcycle/"/>
+            <outline type="rss" text="YAMAHA Riding Works blog（ヤマハ発動機公式ブログ）" title="YAMAHA Riding Works blog（ヤマハ発動機公式ブログ）" xmlUrl="http://www.yamaha-motor.co.jp/mc/blog/atom.xml" htmlUrl="http://www.yamaha-motor.co.jp/mc/blog/"/>
+        </outline>
+        <outline text="Computer" title="Computer">
+            <outline type="rss" text="ギズモード・ジャパン" title="ギズモード・ジャパン" xmlUrl="http://www.gizmodo.jp/index.xml" htmlUrl="https://www.gizmodo.jp"/>
+            <outline type="rss" text="Android(アンドロイド)おすすめアプリ・カスタムニュース" title="Android(アンドロイド)おすすめアプリ・カスタムニュース" xmlUrl="http://androidlover.net/feed" htmlUrl="https://androidlover.net"/>
+            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss-full.xml" htmlUrl="http://www.engadget.com"/>
+            <outline type="rss" text="TechCrunch Japan" title="TechCrunch Japan" xmlUrl="http://jp.techcrunch.com/feed/" htmlUrl="https://jp.techcrunch.com"/>
+            <outline type="rss" text="BlackBerry FanSite" title="BlackBerry FanSite" xmlUrl="http://bbfansite.com/wp/?feed=rss2" htmlUrl="https://bbfansite.com/wp"/>
+            <outline type="rss" text="MONOist「組み込み開発」 最新記事一覧" title="MONOist「組み込み開発」 最新記事一覧" xmlUrl="https://rss.itmedia.co.jp/rss/2.0/mn_embedded.xml" htmlUrl="https://monoist.itmedia.co.jp/mn/subtop/embedded/"/>
+            <outline type="rss" text="EE Times Japan 最新記事一覧" title="EE Times Japan 最新記事一覧" xmlUrl="https://rss.itmedia.co.jp/rss/2.0/eetimes.xml" htmlUrl="https://eetimes.itmedia.co.jp/"/>
+            <outline type="rss" text="TechWave" title="TechWave" xmlUrl="http://techwave.jp/index.rdf" htmlUrl="https://techwave.jp"/>
+            <outline type="rss" text="Engadget Japanese" title="Engadget Japanese" xmlUrl="http://japanese.engadget.com/rss.xml" htmlUrl="http://japanese.engadget.com/rss.xml"/>
+            <outline type="rss" text="WIRED VISION NEWS" title="WIRED VISION NEWS" xmlUrl="http://wiredvision.jp/news/atom.xml" htmlUrl="https://wired.jp"/>
+            <outline type="rss" text="ITmedia News 速報 最新記事一覧" title="ITmedia News 速報 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/2.0/news_bursts.xml" htmlUrl="https://www.itmedia.co.jp/news/"/>
+            <outline type="rss" text="Publickey" title="Publickey" xmlUrl="http://www.publickey1.jp/atom.xml" htmlUrl="https://www.publickey1.jp/"/>
+            <outline type="rss" text="juggly.cn" title="juggly.cn" xmlUrl="http://feeds.feedburner.com/Jugglycn" htmlUrl="https://juggly.cn"/>
+            <outline type="rss" text="CNET Japan" title="CNET Japan" xmlUrl="http://feeds.feedburner.jp/cnet/rss"/>
+            <outline type="rss" text="Impress Watch" title="Impress Watch" xmlUrl="https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf" htmlUrl="https://www.watch.impress.co.jp"/>
+            <outline type="rss" text="TechCrunch Japan" title="TechCrunch Japan" xmlUrl="http://www.pheedo.jp/f/JapaneseTechCrunch"/>
+            <outline type="rss" text="GIGAZINE" title="GIGAZINE" xmlUrl="http://gigazine.net/index.php?/news/rss_2.0/" htmlUrl="https://gigazine.net/"/>
+            <outline type="rss" text="SourceForge.JP Magazine" title="SourceForge.JP Magazine" xmlUrl="http://sourceforge.jp/magazine/rss" htmlUrl="https://mag.osdn.jp/"/>
+            <outline type="rss" text="APPLE LINKAGE" title="APPLE LINKAGE" xmlUrl="http://www.applelinkage.com/rss.xml" htmlUrl="https://www.applelinkage.com"/>
+            <outline type="rss" text="スラッシュドット・ジャパン" title="スラッシュドット・ジャパン" xmlUrl="http://rss.rssad.jp/rss/slashdot/slashdot.rss" htmlUrl="https://srad.jp/"/>
+        </outline>
+        <outline text="It" title="It">
+            <outline type="rss" text="MONOist「組み込み開発」 最新記事一覧" title="MONOist「組み込み開発」 最新記事一覧" xmlUrl="http://rss.rssad.jp/rss/itmatmarkit/m/fembedded/rss.xml" htmlUrl="http://monoist.atmarkit.co.jp/mn/subtop/embedded/"/>
+            <outline type="rss" text="テクノエッジ TechnoEdge" title="テクノエッジ TechnoEdge" xmlUrl="https://www.techno-edge.net/rss20/index.rdf" htmlUrl="https://www.techno-edge.net/"/>
+            <outline type="rss" text="CNET Japan 最新情報 総合" title="CNET Japan 最新情報 総合" xmlUrl="http://feed.japan.cnet.com/rss/index.rdf" htmlUrl="https://japan.cnet.com"/>
+            <outline type="rss" text="ZDNet Japan 最新情報 総合" title="ZDNet Japan 最新情報 総合" xmlUrl="http://feed.japan.zdnet.com/rss/index.rdf" htmlUrl="https://japan.zdnet.com"/>
+            <outline type="rss" text="RSSJapanTechnology" title="RSSJapanTechnology" xmlUrl="https://feeds.a.dj.com/rss/RSSJapanTechnology.xml" htmlUrl="http://online.wsj.com/page/2_0062.html"/>
+            <outline type="rss" text="ITmedia TOP STORIES 最新記事一覧" title="ITmedia TOP STORIES 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/1.0/topstory.xml" htmlUrl="https://www.itmedia.co.jp/news/fortop/"/>
+            <outline type="rss" text="NFT-JP ｜NFT情報メディアサイト" title="NFT-JP ｜NFT情報メディアサイト" xmlUrl="https://nft-jp.net/feed" htmlUrl="https://nft-jp.net"/>
+        </outline>
+        <outline text="その他" title="その他">
+            <outline type="rss" text="イヴのブログ　～『イヴの時間』公式blog～" title="イヴのブログ　～『イヴの時間』公式blog～" xmlUrl="http://timeofeve.com/diarypro/diary.cgi?mode=rss" htmlUrl="http://timeofeve.com/diarypro/"/>
+            <outline type="rss" text="IKEA Blog | イケア・ブログ" title="IKEA Blog | イケア・ブログ" xmlUrl="http://ikea-blog.jp/atom.xml" htmlUrl="http://ikea-blog.jp/"/>
+            <outline type="rss" text="運行情報サイト更新状況（近畿エリア） - 鉄道コム" title="運行情報サイト更新状況（近畿エリア） - 鉄道コム" xmlUrl="http://api.tetsudo.com/traffic/atom.xml?kinki" htmlUrl="https://www.tetsudo.com/traffic/"/>
+            <outline type="rss" text="ファイアボール・ブログ" title="ファイアボール・ブログ" xmlUrl="http://www.disneychannel.jp/dc/program/anime/fireball/blog/atom.xml"/>
+        </outline>
+        <outline text="News" title="News">
+            <outline type="rss" text="J-CASTニュース" title="J-CASTニュース" xmlUrl="http://www.j-cast.com/atom.xml" htmlUrl="https://www.j-cast.com/"/>
+            <outline type="rss" text="Yahoo!ニュース・トピックス - 主要" title="Yahoo!ニュース・トピックス - 主要" xmlUrl="http://news.yahoo.co.jp/pickup/rss.xml" htmlUrl="https://news.yahoo.co.jp/"/>
+            <outline type="rss" text="梅田経済新聞" title="梅田経済新聞" xmlUrl="http://umeda.keizai.biz/rss.xml" htmlUrl="http://umeda.keizai.biz/"/>
+            <outline type="rss" text="東洋経済オンライン | 社会をよくする経済ニュース" title="東洋経済オンライン | 社会をよくする経済ニュース" xmlUrl="http://toyokeizai.net/list/feed/rss" htmlUrl="https://toyokeizai.net"/>
+            <outline type="rss" text="diamond.jp" title="diamond.jp" xmlUrl="http://diamond.jp/"/>
+            <outline type="rss" text="日本経済新聞　企業" title="日本経済新聞　企業" xmlUrl="http://www.zou3.net/php/rss/nikkei2rss.php?head=sangyo" htmlUrl="http://www.nikkei.com/news/category/bn=61;at=DGXZZO0195165008122009000000"/>
+            <outline type="rss" text="日本経済新聞　経済" title="日本経済新聞　経済" xmlUrl="http://www.zou3.net/php/rss/nikkei2rss.php?head=keizai" htmlUrl="http://www.nikkei.com/news/category/bn=41;at=DGXZZO0195164008122009000000"/>
+            <outline type="rss" text="ダイヤモンド・オンライン - 新着記事" title="ダイヤモンド・オンライン - 新着記事" xmlUrl="http://diamond.jp/list/rss" htmlUrl="http://diamond.jp/category/dol"/>
+            <outline type="rss" text="なんば経済新聞" title="なんば経済新聞" xmlUrl="http://namba.keizai.biz/rss.xml" htmlUrl="http://namba.keizai.biz/"/>
+            <outline type="rss" text="日経新聞 速報" title="日経新聞 速報" xmlUrl="https://assets.wor.jp/rss/rdf/nikkei/news.rdf" htmlUrl="https://www.nikkei.com/news/category/"/>
+            <outline type="rss" text="RSSJapanHeardonTheStreet" title="RSSJapanHeardonTheStreet" xmlUrl="https://feeds.a.dj.com/rss/RSSJapanHeardonTheStreet.xml" htmlUrl="http://online.wsj.com/page/2_0062.html"/>
+            <outline type="rss" text="京橋経済新聞" title="京橋経済新聞" xmlUrl="http://kyobashi.keizai.biz/rss.xml" htmlUrl="http://kyobashi.keizai.biz/"/>
+            <outline type="rss" text="あべの経済新聞" title="あべの経済新聞" xmlUrl="http://abeno.keizai.biz/rss.xml" htmlUrl="http://abeno.keizai.biz/"/>
+            <outline type="rss" text="Business Media 誠 最新記事一覧" title="Business Media 誠 最新記事一覧" xmlUrl="http://rss.itmedia.co.jp/rss/1.0/makoto.xml" htmlUrl="http://bizmakoto.jp/"/>
+            <outline type="rss" text="毎日新聞" title="毎日新聞" xmlUrl="http://ja.fxfeeds.mozilla.com/ja/firefox/headlines.xml" htmlUrl="https://mainichi.jp/?inb=ff"/>
+            <outline type="rss" text="ダイヤモンド・オンライン - 新着記事" title="ダイヤモンド・オンライン - 新着記事" xmlUrl="https://diamond.jp/list/feed/rss/dol" htmlUrl="http://diamond.jp/category/dol"/>
+            <outline type="rss" text="東洋経済オンライン(ビジネス＆ライフ)" title="東洋経済オンライン(ビジネス＆ライフ)" xmlUrl="http://feeds.feedburner.com/business_life" htmlUrl="http://www.toyokeizai.net/"/>
+        </outline>
+        <outline text="XR" title="XR">
+            <outline type="rss" text="Mogura VR" title="Mogura VR" xmlUrl="http://www.moguravr.com/feed/" htmlUrl="https://www.moguravr.com/"/>
+            <outline type="rss" text="PANORA" title="PANORA" xmlUrl="http://panora.tokyo/feed/" htmlUrl="https://panora.tokyo"/>
+        </outline>
+        <outline text="cerezo" title="cerezo">
+            <outline type="rss" text="橋本英郎公式サイト「絆」" title="橋本英郎公式サイト「絆」" xmlUrl="http://pakila.jp/hashimoto/feed/" htmlUrl="http://pakila.jp/hashimoto"/>
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="Jリーグ - Number Web" title="Jリーグ - Number Web" xmlUrl="http://rss.rssad.jp/rss/number/jleague" htmlUrl="http://number.bunshun.jp/subcategory/J%E3%83%AA%E3%83%BC%E3%82%B0/column"/>
+            <outline type="rss" text="新着コラム - Number Web" title="新着コラム - Number Web" xmlUrl="http://rss.rssad.jp/rss/number/rsscolumn" htmlUrl="http://number.bunshun.jp/category/column"/>
+            <outline type="rss" text="サッカー日本代表 - Number Web" title="サッカー日本代表 - Number Web" xmlUrl="http://rss.rssad.jp/rss/number/jfootball" htmlUrl="http://number.bunshun.jp/subcategory/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8/column"/>
+            <outline type="rss" text="BLOGOLA" title="BLOGOLA" xmlUrl="http://blogola.jp/?feed=rss2" htmlUrl="https://blogola.jp"/>
+        </outline>
+        <outline text="Finance" title="Finance">
+            <outline type="rss" text="CoinDesk JAPAN（コインデスク・ジャパン）" title="CoinDesk JAPAN（コインデスク・ジャパン）" xmlUrl="https://www.coindeskjapan.com/feed/" htmlUrl="https://www.coindeskjapan.com"/>
+            <outline type="rss" text="あたらしい経済" title="あたらしい経済" xmlUrl="https://www.neweconomy.jp/feed" htmlUrl="https://www.neweconomy.jp"/>
+            <outline type="rss" text="CoinPost｜仮想通貨ビットコインニュース・投資情報" title="CoinPost｜仮想通貨ビットコインニュース・投資情報" xmlUrl="http://coinpost.jp/?feed=rss2" htmlUrl="https://coinpost.jp"/>
+        </outline>
+    </body>
+</opml>
